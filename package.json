@@ -2,7 +2,7 @@
   "name": "simple-one-darker",
   "displayName": "Simple One Darker",
   "description": "Simply a darker verion of the popular One Dark theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "JulienCallens",
   "engines": {
     "vscode": "^1.86.0"

@@ -1,6 +1,8 @@
 {
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
+	"editor.fontSize": 14,
+	"editor.fontFamily": "consolas",
 	"colors": {
 		"activityBar.background": "#1b1e23",
 		"activityBar.foreground": "#d7dae0",
@@ -18,7 +20,7 @@
 		"editor.findMatchHighlightBackground": "#528bff3d",
 		"editor.foreground": "#abb2bf",
 		"editor.lineHighlightBackground": "#99bbff0a",
-		"editor.selectionBackground": "#1b1e23",
+		"editor.selectionBackground": "#404859",
 		"editorCursor.foreground": "#528bff",
 		"editorGroup.border": "#181a1f",
 		"editorGroupHeader.tabsBackground": "#1b1e23",
