@@ -1,8 +1,9 @@
 {
-  "name": "one-darker",
-  "displayName": "One Darker",
-  "description": "A darker verion of the popular One Dark theme",
+  "name": "simple-one-darker",
+  "displayName": "Simple One Darker",
+  "description": "Simply a darker verion of the popular One Dark theme",
   "version": "0.0.1",
+  "publisher": "JulienCallens",
   "engines": {
     "vscode": "^1.86.0"
   },
@@ -17,5 +18,9 @@
         "path": "./themes/One Darker-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/julien-callens/one-darker.git"
   }
 }
