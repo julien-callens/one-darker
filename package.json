@@ -1,0 +1,21 @@
+{
+  "name": "one-darker",
+  "displayName": "One Darker",
+  "description": "A darker verion of the popular One Dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One Darker-color-theme.json"
+      }
+    ]
+  }
+}
