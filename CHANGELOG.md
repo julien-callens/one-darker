@@ -7,12 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [v0.0.2] - 2024-07-23
+## [v0.0.4] - 2024-07-23
 
 ### Changed
 
 - selectionBackground to be visible
 
-## [v0.0.1]
+## [v0.0.3]
 
 - Initial release
