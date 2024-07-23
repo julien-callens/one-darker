@@ -3,7 +3,7 @@
   "displayName": "Simple One Darker",
   "description": "Simply a darker verion of the popular One Dark theme",
   "icon": "./one-darker.png",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "JulienCallens",
   "engines": {
     "vscode": "^1.86.0"
