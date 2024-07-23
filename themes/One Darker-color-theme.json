@@ -729,7 +729,7 @@
 		//"searchEditor.findMatchBorder": null,
 		//"selection.background": null,
 		//"sideBar.border": null,
-		//"sideBar.foreground": null,
+		"sideBar.foreground": "#aeb2bd",
 		//"sideBarSectionHeader.border": null,
 		//"sideBarSectionHeader.foreground": null,
 		//"sideBarTitle.foreground": null,
